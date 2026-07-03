@@ -64,6 +64,7 @@ https://github.com/SoumyDubey11/Luminor-Maison
 
 # Connect With Me
 
-Email: **soumyadubeyd@gmail.com**
+LinkedIn: https://www.linkedin.com/in/soumya-dubey-41529a354/
 
+Email: soumyadubeyd@gmail.com
 
