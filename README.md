@@ -40,7 +40,7 @@ VS Code, XAMPP, Git, GitHub
 A medical inventory management system with Admin and Pharmacist/Staff login. Features include medicine management, supplier records, stock tracking, billing, and sales management.
 
 🔗 Repository:
-https://github.com/SoumyDubey11/Medical-Inventory-System
+https://github.com/SoumyaDubey11/medical-inventory-management
 
 ---
 
